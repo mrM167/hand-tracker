@@ -1,7 +1,7 @@
 # **Hand Tracker**  
 Real-time hand tracking using Python, OpenCV, and MediaPipe. Perfect for gesture control, VR, or interactive projects!  
 
-![Demo](demo.gif) *(Replace with your GIF—see instructions below!)*  
+
 
 ## **Features**  
 - Tracks 21 hand landmarks in real-time.  
